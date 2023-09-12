@@ -1,4 +1,4 @@
-## 03_03_ci_cd_for_software_packages
+## # 03_03_ci_cd_for_software_packages
 Continuous delivery workflows for software packages follow a pattern with these steps:
 - Configure the project to work with the package registry
 - Authenticate with the target registry
