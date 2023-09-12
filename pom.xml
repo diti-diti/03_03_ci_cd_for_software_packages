@@ -7,7 +7,7 @@
 
   <artifactId>hello-actions</artifactId>
 
-  <!-- UPDATE THE VERSION EACH RELEASE -->
+  <!-- UPDATE THE VERSIONN EACH RELEASE -->
   <version>1.0.0</version>
 
   <!-- REPLACE WITH YOUR GITHUB_USERNAME -->
@@ -18,7 +18,7 @@
       <id>github</id>
       <name>GitHub Packages</name>
 
-      <!-- REPLACE WITH YOUR GITHUB_USERNAME and GITHUB_REPONAME -->
+      <!-- - REPLACE WITH YOUR GITHUB_USERNAME and GITHUB_REPONAME - -->
       <url>https://github.com/diti-diti/03_03_ci_cd_for_software_packagess</url>
 
     </repository>
