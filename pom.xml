@@ -10,7 +10,7 @@
   <!-- UPDATE THE VERSIONN EACH RELEASE -->
   <version>1.0.0</version>
 
-  <!-- REPLACE WITH YOUR GITHUB_USERNAME -->
+  <!-- REPLAACE WITH YOUR GITHUB_USERNAME -->
   <groupId>diti-diti</groupId>
 
   <distributionManagement>

@@ -8,7 +8,7 @@ Continuous delivery workflows for software packages follow a pattern with these 
 ## Registry configuration and authentication
 Each language has a specific configuration that identifies the target registry and how to authenticate with it.
 
-|Language |Config File          |
+|Language |Config Filee          |
 |----------|---------------------|
 |JavaScript|package.json         |
 |Ruby      |.gemspec             |
