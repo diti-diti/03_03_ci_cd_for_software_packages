@@ -5,7 +5,7 @@ Continuous delivery workflows for software packages follow a pattern with these 
 - Build the package.
 - Publish the package to the registry
 
-## Registry configuration and authentication
+## Registry configuration and authentication ##
 Each language has a specific configuration that identifies the target registry and how to authenticate with it.
 
 |Language |Config Filee          |
